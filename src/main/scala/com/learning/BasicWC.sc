@@ -1,2 +1,1 @@
-var a = 3
-a + 5
+val (empId, name) = (1, "Prabha")

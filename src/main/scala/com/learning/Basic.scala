@@ -5,3 +5,8 @@ object Basic {
     println("Hello world")
   }
 }
+
+object Basic1 extends App {
+
+  println("Hello world")
+}
